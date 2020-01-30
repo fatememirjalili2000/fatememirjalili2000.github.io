@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "پوررنگ آتشی"
+title                    : "فاطمه میرجلیلی "
 title_separator          : "-"
-name                     : "Poorang" 
-description              : "Welcome to my web site."
+name                     : "Fatima" 
+description              : "Welcome to my website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
+  name             : "ّFateme Mirjalili"
+  avatar           : "/assets/images/4.jpg"
   bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
-  location         : "تهران"
+  location         : "یزد"
   email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  twitter: 
+  linkedin: fatememirjalili2000
+  google_scholar: 
+  github: fatememirjalili2000
+  instagram: ftmmrj2018
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -163,7 +163,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: "http://calendly.com/fatememirjalili2000"
 
 
 # Reading Files
