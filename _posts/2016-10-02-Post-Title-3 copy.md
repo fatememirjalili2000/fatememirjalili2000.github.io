@@ -11,21 +11,20 @@ Python:
 
 -**Correct Solution**:
 {
+    
+ 
+def string_len(str): 
 
-int string_len(char* str){
+    count = 0    
 
-    int i = 0 ;
+    for i in str: 
 
-    while (str[i] != 0 ){
+        count += 1
 
-        i++ ;
 
-    }
-
-    return i ; 
+    return count
 
 }
-
 
 -**Question tip**: 
 
@@ -40,6 +39,26 @@ int string_len(char* str){
 
 -**Correct Solution**:
 
+{
+    
+
+def char_count(pch,a):
+
+    d=string_len(pch)
+
+    c=0
+
+    for i in range (d):
+
+        if (pch[i] == a ):
+
+            c=c+1 
+ 
+
+    return c
+
+
+}
 -**Question tip**:
 
 

@@ -132,13 +132,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "github.com/fatememirjalili2000"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "ftmmrj2018"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/"
+      url: "https://calendly.com/fatemehmirjalili2000/"
 
 # Site Footer
 footer:
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url : "github.com/fatememirjalili2000"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -163,7 +163,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/fatememirjalili2000"
+      url: "https://calendly.com/fatemehmirjalili2000/"
 
 
 # Reading Files
