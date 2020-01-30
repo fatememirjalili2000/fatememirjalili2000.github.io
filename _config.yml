@@ -120,10 +120,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:fatemehmirjalili2000@gmail.com.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://fatememirjalili2000.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -135,10 +135,10 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "ftmmrj2018"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: "http://calendly.com/"
 
 # Site Footer
 footer:
