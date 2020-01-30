@@ -27,23 +27,27 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
-  - url: /assets/images/new website1.jpg
-    image_path: /assets/images/new website1.jpg
-    alt: "placeholder image new website1"
-    title: "Image new website1 title caption" 
-  - url: /assets/images/new website2.jpg
-    image_path: /assets/images/new website2.jpg
-    alt: "placeholder image new website2"
-    title: "Image new website2 title caption" 
-  - url: /assets/images/new website13.jpg
-    image_path: /assets/images/new website3.jpg
-    alt: "placeholder image new website3"
-    title: "Image new website3 title caption"
-  - url: /assets/images/new website5.jpg
-    image_path: /assets/images/new website5.jpg
-    alt: "placeholder image new website5"
-    title: "Image new website5 title caption"    
----
+  - url: /assets/images/11.jpg
+    image_path: /assets/images/11.jpg
+    alt: "placeholder image 5"
+    title: "Image 5 title caption" 
+ - url: /assets/images/22.jpg
+    image_path: /assets/images/22.jpg
+    alt: "placeholder image 5"
+    title: "Image 5 title caption" 
+ - url: /assets/images/33.jpg
+    image_path: /assets/images/33.jpg
+    alt: "placeholder image 5"
+    title: "Image 5 title caption" 
+ - url: /assets/images/44.jpg
+    image_path: /assets/images/44.jpg
+    alt: "placeholder image 5"
+    title: "Image 5 title caption" 
+ - url: /assets/images/55.jpg
+    image_path: /assets/images/55.jpg
+    alt: "placeholder image 5"
+    title: "Image 5 title caption" 
+ 
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
