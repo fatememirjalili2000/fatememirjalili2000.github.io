@@ -25,7 +25,8 @@ int string_len(char* str){
     return i ; 
 
 }
-}
+
+
 -**Question tip**: 
 
 -**Question 2**:copying a string in a buf
