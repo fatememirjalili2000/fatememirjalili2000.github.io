@@ -9,8 +9,6 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
-
+* [My shopping site](http://97551279.pythonanywhere.com/)
+* [Teachers website](https://fatememirjalili2000.github.io/course_template/)
+* [Personal website](https://fatememirjalili2000.github.io/)
