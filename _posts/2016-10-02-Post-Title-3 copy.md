@@ -197,7 +197,7 @@ def create_student(id, name):
 -**Question tip**:
 
 
--**Question 11**:memory
+-**Question 11**:cos
 
 -**Correct Solution**:
 
@@ -205,7 +205,7 @@ def create_student(id, name):
 
 
 
--**Question 12**:memory
+-**Question 12**:arc_cos
 
 -**Correct Solution**:
 
