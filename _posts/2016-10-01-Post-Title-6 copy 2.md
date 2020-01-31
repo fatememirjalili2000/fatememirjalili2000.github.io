@@ -2,6 +2,6 @@
 layout: posts
 title: ِDYI
 ---
-
+ استفاده مفید از یک هارد بلااستفاده 
 ---
-**<a href="https://fatememirjalili2000.github.io/course_template/course-materials/">Signal and System website</a>** 
+

@@ -172,7 +172,7 @@ def student_tostring(s):
 
 
 
--**Question tip**:
+-**Question tip**: چگونگی استفاده از کلاس در یک تابع
 
 
 -**Question 9**:creating a class
@@ -195,22 +195,6 @@ def create_student(id, name):
 
 
 -**Question tip**:
-
-
--**Question 11**:cos
-
--**Correct Solution**:
-
--**Question tip**:
-
-
-
--**Question 12**:arc_cos
-
--**Correct Solution**:
-
--**Question tip**:
-
 
 ---
 
