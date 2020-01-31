@@ -59,7 +59,7 @@ def char_count(pch,a):
 
 
 }
--**Question tip**:
+
 
 
 -**Question 4**: counting longest sequence of a character
@@ -101,7 +101,7 @@ def count_pattern (arr , cd ):
     return s
 
 
--**Question tip**:
+-**Question tip**: مهم ترین قسمت سوال پیدا کردن درست از بازه های مناسب برای حلقه هاست
 
 
 
@@ -148,7 +148,7 @@ def changge_stident_id (s,id ):
 
 
 
--**Question tip**:
+-**Question tip**: چگونگی تعریف  یک کلاس درون تابع
 
 
 -**Question 8**: converting a class to string
