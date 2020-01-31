@@ -31,19 +31,19 @@ gallery:
     image_path: /assets/images/11.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
- - url: /assets/images/22.jpg
+  - url: /assets/images/22.jpg
     image_path: /assets/images/22.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
- - url: /assets/images/33.jpg
+  - url: /assets/images/33.jpg
     image_path: /assets/images/33.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
- - url: /assets/images/44.jpg
+  - url: /assets/images/44.jpg
     image_path: /assets/images/44.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
- - url: /assets/images/55.jpg
+  - url: /assets/images/55.jpg
     image_path: /assets/images/55.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption" 
