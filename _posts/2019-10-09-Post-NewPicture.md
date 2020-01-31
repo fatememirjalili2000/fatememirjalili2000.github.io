@@ -8,32 +8,34 @@ title: Hackathon
 
 **1**
 -این قسمت همانطور که در تصویر نشان داده شده است مخصوص فروشنده  کالا است  به گونه ای  که کاربر در فیلدهای نشان داده شده ویژگی کالا ی  مورد نظر را اعم از  رنگ ,جنس ,قیمت و...  ثبت میکند 
--
+---
+![alt text](../assets/images/11.jpg "Hackathon")
+---
 
 **2**
 -کالای ثبت شده براساس اینکه در کدام گروه از لوازم پوشاک , ورزشی ,بهداشتی و ...است در لیست مربوطه قرار میگیرد 
-
+---
+![alt text](../assets/images/22.jpg "Hackathon2")
+---
 **3**
 -در قسمت مقابل خریدار کالای مورد نظر خود را وارد نموده و لیست کالاهای موجود به کاربر نشان داده میشود که امکان مقایسه بین کالاها از نظر کیفیت قیمت برند و ... بوجود میاید
-
-
-
+---
+![alt text](../assets/images/44"Team Picture")
+---
 -**مقایسه**
 
 -ویژگی متفاوت این سایت نسبت  به موارد مشابه این است که امکان مقایسه ی کالا های مشایه از فروشگاه های مختلف فراهم میاید و کاربر را از جست و جو های پیاپی  وجداگانه برای یک کالا در هر فروشگاه را بی نیاز می سازد  .    
 
 -طراحی صفحاتی در قالب سایت به منظور ارائه ی خدماتی به فروشنده ها و مشتری های فروشگاه های انلابن به منظور تسهیل در خرید
 -
-
+---
+![alt text](../assets/images/55.jpg "Hackathon2")
 -لینک سایت 
 [my shopping site ](http://97551279.pythonanywhere.com/)
 
-![alt text](../assets/images/new website 1.jpg "Hackathon")
 
-![alt text](../assets/images/new website3.jpg "Hackathon2")
 
-![alt text](../assets/images/new website5.jpg "Hackathon2")
-![alt text](../assets/images/grouppic.jpg "Team Picture")
-[alt text](../assets/images/creative.jpg)
----
-**Test**: This is atest
+
+
+
+
